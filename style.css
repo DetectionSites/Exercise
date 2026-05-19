@@ -62,7 +62,16 @@ footer {
       text-align: left;
       color: rgb(225, 226, 236);
     }
+    
 
+    p {
+      font: 20px;
+      color: red;
+    }
+
+
+
+    
     .card {
       width: 100%;
       display: block;
