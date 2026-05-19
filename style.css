@@ -10,6 +10,12 @@ body {
   flex: 1;
 }
 
+responsive {
+   width: 100%;
+   height: auto;
+}
+
+
 h1 {
   font-size: 5rem;
   color: yellow;
