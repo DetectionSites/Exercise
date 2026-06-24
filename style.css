@@ -10,7 +10,7 @@ body {
   flex: 1;
 }
 
-responsive {
+.responsive {
    max-width: 60%;
    height: auto;
 }
