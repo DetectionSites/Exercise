@@ -85,6 +85,21 @@ footer {
     }
   }
 
+/* Container styling for spacing and alignment */
+.checkbox-container {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  font-family: sans-serif;
+  cursor: pointer;
+  user-select: none;
+}
+/* Optional styling to make the default checkbox look larger */
+.checkbox-container input {
+  width: 18px;
+  height: 18px;
+  cursor: pointer;
+}
 
 
 
